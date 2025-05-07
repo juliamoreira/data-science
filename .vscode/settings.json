@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/Data/flac": true
+    },
+    "search.exclude": {
+        "**/Data/flac": true
+    }
+}
